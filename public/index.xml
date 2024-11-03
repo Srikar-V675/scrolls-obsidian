@@ -10,25 +10,25 @@
     <link>https://quartz.jzhao.xyz/scrolls/Hash-Table-example.excalidraw</link>
     <guid>https://quartz.jzhao.xyz/scrolls/Hash-Table-example.excalidraw</guid>
     <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
-    <pubDate>Sun, 03 Nov 2024 13:26:33 GMT</pubDate>
+    <pubDate>Sun, 03 Nov 2024 13:27:27 GMT</pubDate>
   </item><item>
     <title>mermaid</title>
     <link>https://quartz.jzhao.xyz/scrolls/mermaid</link>
     <guid>https://quartz.jzhao.xyz/scrolls/mermaid</guid>
     <description>graph TD A --&gt; B IF --&gt; YES .</description>
-    <pubDate>Sun, 03 Nov 2024 13:26:33 GMT</pubDate>
+    <pubDate>Sun, 03 Nov 2024 13:27:27 GMT</pubDate>
   </item><item>
     <title>hash functions</title>
     <link>https://quartz.jzhao.xyz/scrolls/hash-functions</link>
     <guid>https://quartz.jzhao.xyz/scrolls/hash-functions</guid>
     <description>Hash Functions Summary Hash functions are an integral part of hash tables. These functions let us map a key to a value, it performs some kind of operation on the key to determine the index in which the value should be stored in hash tables.</description>
-    <pubDate>Sun, 03 Nov 2024 13:26:33 GMT</pubDate>
+    <pubDate>Sun, 03 Nov 2024 13:27:27 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Sun, 03 Nov 2024 13:26:33 GMT</pubDate>
+    <pubDate>Sun, 03 Nov 2024 13:27:27 GMT</pubDate>
   </item>
     </channel>
   </rss>

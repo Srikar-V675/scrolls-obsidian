@@ -15,7 +15,8 @@ The value can be an index to an array that contains the actual value or the valu
 > If *The Book of Life* is the key then the value could be the row in the shelf in which the book is in the library. Here the shelf can be the array and the row is the index of the array.
 
 ![[Hash-Table-example.excalidraw]]
-![[public/scrolls/Hash-Table-example.excalidraw.png]]]
+![[attachments/Hash-Table-example.excalidraw.png]]
+
 
 Each index of the [[hash tables]] are called *buckets* and can sometimes hold more than one value, this scenario is called a ==collision==. 
 
