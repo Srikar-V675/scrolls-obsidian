@@ -4,6 +4,7 @@ source: "[[graphs]]"
 atlas: "[[04-Atlas/DSA]]"
 type: literature
 dg-publish: true
+publish: true
 ---
 # Graph DFS
 
