@@ -1,8 +1,7 @@
 ---
 date: <% tp.file.creation_date() %>
-tags: 
-atlas: 
-type: Project
+tags:
+  - project
 status: ongoing
 publish: true
 ---

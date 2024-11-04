@@ -1,9 +1,8 @@
 ---
 date: <% tp.file.creation_date() %>
 sources: 
-tags: 
-atlas: 
-type: zettel
+tags:
+  - zettel
 status: literature
 publish: true
 ---

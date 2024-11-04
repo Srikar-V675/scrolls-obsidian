@@ -6,23 +6,35 @@
       <description>Last 10 notes on 📜 Scrolls</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>documentation template</title>
-    <link>https://quartz.jzhao.xyz/templates/documentation-template</link>
-    <guid>https://quartz.jzhao.xyz/templates/documentation-template</guid>
-    <description># &lt;% tp.file.title %&gt; Project:.</description>
-    <pubDate>Mon, 04 Nov 2024 18:47:57 GMT</pubDate>
-  </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Mon, 04 Nov 2024 18:30:49 GMT</pubDate>
+    <pubDate>Mon, 04 Nov 2024 19:32:29 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/</link>
     <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/</guid>
     <description></description>
-    <pubDate>Mon, 04 Nov 2024 18:30:49 GMT</pubDate>
+    <pubDate>Mon, 04 Nov 2024 19:32:29 GMT</pubDate>
+  </item><item>
+    <title>3. data analysis</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/3.-data-analysis</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/3.-data-analysis</guid>
+    <description>Topics pandas, numpy and matplotlib Tableau SQL .</description>
+    <pubDate>Mon, 04 Nov 2024 18:22:00 GMT</pubDate>
+  </item><item>
+    <title>data science</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/data-science</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/data-science</guid>
+    <description>data science TABLE date as &quot;Date&quot;, sources as &quot;Source&quot; FROM &quot;content/🥷🏽 jutsus&quot; WHERE atlas = [[data science]].</description>
+    <pubDate>Mon, 04 Nov 2024 18:21:00 GMT</pubDate>
+  </item><item>
+    <title>aws cloud practitioner resources</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/aws-cloud-practitioner-resources</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/aws-cloud-practitioner-resources</guid>
+    <description>Course AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam! Prepare for the AWS Certified Cloud Practitioner Certification (CLF-C02) and pass! www.youtube.com/watch ...</description>
+    <pubDate>Mon, 04 Nov 2024 18:20:00 GMT</pubDate>
   </item><item>
     <title>cloud computing</title>
     <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/cloud-computing</link>
@@ -35,6 +47,18 @@
     <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/8.-LLMs</guid>
     <description>Resources Intro to Large Language Models - YouTube Large Language Models in Five Formulas - YouTube Neural Networks: Zero To Hero GPT in 60 Lines of NumPy | Jay Mody Large Language Models ...</description>
     <pubDate>Mon, 04 Nov 2024 18:16:00 GMT</pubDate>
+  </item><item>
+    <title>7. deep learning</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/7.-deep-learning</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/7.-deep-learning</guid>
+    <description>Resources FastAI Part-1 FastAI Part-2 Weights &amp; Biases Study Group The Full Stack Deep Learning youtu.be/HJd1I3FdSnY Ayush Singh YT Learn PyTorch for deep learning in a day ...</description>
+    <pubDate>Mon, 04 Nov 2024 18:04:00 GMT</pubDate>
+  </item><item>
+    <title>ai</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/ai</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/ai</guid>
+    <description>AI Resources FileDateSource7. deep learning2024-11-04 23:34-8. LLMs2024-11-04 23:46- .</description>
+    <pubDate>Mon, 04 Nov 2024 17:58:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

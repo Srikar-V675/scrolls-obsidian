@@ -1,10 +1,13 @@
 ---
 date: <% tp.file.creation_date() %>
 project: 
-type: progress-tracking
+tags:
+  - progress-tracking
 publish: true
 ---
 # Progress Tracker
+
+**PROJECT:**
 
 ## Milestones
 

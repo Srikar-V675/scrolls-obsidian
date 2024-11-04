@@ -1,12 +1,11 @@
 ---
 date: 2024-11-04 23:50
 sources: 
-atlas: "[[cloud computing]]"
-type: zettel
-status: literature
-publish: true
 tags:
   - cloud-computing
+  - zettel
+status: literature
+publish: true
 ---
 
 ### Course

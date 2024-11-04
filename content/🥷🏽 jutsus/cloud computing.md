@@ -1,14 +1,15 @@
 ---
 date: 2024-11-04 23:48
-type: atlas
+tags:
+  - atlas
 publish: true
 ---
 # cloud computing
 
-```dataview
-TABLE
-	date as "Date",
-	sources as "Source"
-FROM "content/🥷🏽 jutsus"
-WHERE atlas = [[cloud computing]]
-```
+<!-- QueryToSerialize: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "cloud-computing") -->
+<!-- SerializedQuery: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "cloud-computing") -->
+
+| File                                                                                          | Date             | Source |
+| --------------------------------------------------------------------------------------------- | ---------------- | ------ |
+| [[aws cloud practitioner resources]] | 2024-11-04 23:50 | \-     |
+<!-- SerializedQuery END -->

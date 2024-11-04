@@ -1,13 +1,13 @@
 ---
 date: <% tp.file.creation_date() %>
 project: 
-type: meeting
+tags:
+  - meeting
 topic: 
 attendees: 
-- 
-publish: true
 ---
 # Meeting Notes 
+
 ## Agenda: 
 1. [Agenda Item 1] 
 2. [Agenda Item 2] 
