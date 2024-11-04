@@ -5,7 +5,7 @@ tags:
   - zettel
   - personal-growth
 status: literature
-publish: true
+publish: false
 ---
 # the best nofap strategy
 

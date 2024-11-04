@@ -9,7 +9,6 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "personal-growth") -->
 <!-- SerializedQuery: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "personal-growth") -->
 
-| File                                            | Date             | Source |
-| ----------------------------------------------- | ---------------- | ------ |
-| [[bookshelf]] | 2024-11-05 02:06 | \-     |
+| File | Date | Source |
+| ---- | ---- | ------ |
 <!-- SerializedQuery END -->
