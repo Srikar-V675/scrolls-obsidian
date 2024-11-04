@@ -9,7 +9,6 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "interview-prep") -->
 <!-- SerializedQuery: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "interview-prep") -->
 
-| File                                                | Date             | Source |
-| --------------------------------------------------- | ---------------- | ------ |
-| [[dsa mastery]] | 2024-11-05 01:50 | \-     |
+| File | Date | Source |
+| ---- | ---- | ------ |
 <!-- SerializedQuery END -->
