@@ -9,3 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/03-resources/Articles
+content/03-resources/Books
