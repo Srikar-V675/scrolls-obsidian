@@ -6,6 +6,6 @@ project:
 publish: true
 ---
 
-# # <% tp.file.title %>
+# <% tp.file.title %>
 
 **PROJECT:** 

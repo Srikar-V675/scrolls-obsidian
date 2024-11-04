@@ -1,83 +1,75 @@
 ---
-date: 2024-11-05 02:25
+date: 2024-11-05 02:28
 tags:
   - documentation
 project: "[[SyncWise]]"
 publish: true
 ---
 
-# gradesync db-design updates
+# gradesync db-design
 
 **PROJECT:** [[SyncWise]]
 
-## Schema
+### DB Design 
 ```mermaid
 erDiagram
-	GROUPS {
-		int id PK
-		string group_name
-		string permissions
-	}
-	USERS {
-		int id PK
-		string username
-		string password
-		string email
-		int department FK
-		int group FK
-	}
     DEPARTMENTS {
-        int id PK
+        int dept_id PK, FK
         string dept_name
+        string password
     }
     BATCHES {
-        int id PK
-        int dept FK
+        int batch_id PK, FK
+        int dept_id FK
         string batch_name 
         int scheme
         int num_students 
         int batch_start_year
-        int batch_end_year
+        int batch_end_year 
+        string start_usn 
+        string end_usn 
+        string lateral_start_usn 
+        string lateral_end_usn 
     }
     SECTIONS {
-	    int id PK
-        int batch FK
+	    int section_id PK
+        int batch_id FK
         string section 
-        int num_students
+        int num_students 
+        string start_usn 
+        string end_usn 
+        string lateral_start_usn 
+        string lateral_end_usn 
     }
     SEMESTERS {
-	    int id PK
-	    int batch FK
+	    int sem_id PK
+	    int batch_id FK
 	    int sem_num 
 	    int num_subjects 
 	    bool current
     }
     STUDENTS {
-     int id PK
-     int user FK
-     int batch FK
-     int section FK
-     int semester FK
-     string usn
+     int stud_id PK
+     int batch_id FK
+     int section_id FK
+     int current_sem FK
+     string usn 
+     string stud_name 
      decimal cgpa
      bool active
-     int num_backlogs
     }
     SUBJECTS {
-	    int id PK
-	    int semester FK
-	    string sub_code
+	    int subject_id PK
+	    int sem_id FK
+	    string sub_code 
 	    string sub_name
 	    int credits
     }
-    FACULTY {
-	    NOT YET-IMPLEMENTED
-    }
     MARKS {
-	    int id PK
-	    int student FK
-	    int subject FK
-	    int section FK
+	    int mark_id PK
+	    int stud_id FK
+	    int subject_id FK
+	    int section_id FK
 	    int internal
 	    int external
 	    int total
@@ -85,16 +77,13 @@ erDiagram
 	    string grade 
     }
     STUDENT_PERFORMANCES {
-	    int id PK
-	    int student FK
-	    int semester FK
+	    int stud_perf_id PK
+	    int stud_id FK
+	    int sem_id FK
 	    int total 
 	    decimal percentage 
 	    decimal sgpa
     }
-    USERS ||--|{ DEPARTMENTS : part-of
-    USERS ||--|{ STUDENTS : profile
-    USERS ||--|{ GROUPS : belong-to
 	BATCHES ||--|{ SECTIONS : contains 
 	BATCHES ||--|{ SEMESTERS : has 
 	BATCHES ||--|{ STUDENTS : consist-of
