@@ -11,7 +11,8 @@ publish: true
 
 | File                                                                                            | Date             | Source |
 | ----------------------------------------------------------------------------------------------- | ---------------- | ------ |
-| [[important patterns and strategies]] | 2024-11-05 01:36 | \-     |
+| [[dsa mastery]]                                             | 2024-11-05 01:50 | \-     |
 | [[essential python built-ins]]               | 2024-11-05 01:43 | \-     |
 | [[system design resources]]                     | 2024-11-05 01:47 | \-     |
+| [[important patterns and strategies]] | 2024-11-05 01:36 | \-     |
 <!-- SerializedQuery END -->
