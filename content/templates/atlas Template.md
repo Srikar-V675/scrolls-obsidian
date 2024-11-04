@@ -1,0 +1,14 @@
+---
+date: <% tp.file.creation_date() %>
+type: atlas
+publish: true
+---
+# <% tp.file.title %>
+
+```dataview
+TABLE
+	date as "Date",
+	sources as "Source"
+FROM "content/🥷🏽 jutsus"
+WHERE atlas = [[atlas]]
+```
