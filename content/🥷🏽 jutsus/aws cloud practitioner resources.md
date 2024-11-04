@@ -5,6 +5,8 @@ atlas: "[[cloud computing]]"
 type: zettel
 status: literature
 publish: true
+tags:
+  - cloud-computing
 ---
 
 ### Course

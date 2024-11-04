@@ -1,6 +1,7 @@
 ---
 date: <% tp.file.creation_date() %>
-type: atlas
+tags:
+  - atlas
 publish: true
 ---
 # <% tp.file.title %>

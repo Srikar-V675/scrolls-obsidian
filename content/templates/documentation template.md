@@ -1,7 +1,10 @@
 ---
 date: <% tp.file.creation_date() %>
-project: 
-type: documentation
+tags: 
+- documentation
 publish: true
 ---
 
+# # <% tp.file.title %>
+
+**Project:** 
