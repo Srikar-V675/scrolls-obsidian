@@ -24,7 +24,7 @@ In `insertion sort` alone, the algorithm finds the right index by comparing each
 2. Use binary search to find the right index at which the violating element should be present since we know the elements previous to violating element are sorted.
 3. Now use `insertion sort` to insert the violating element at that index and push the following elements forward.
 
-![[Binary-insertion-sort-example.excalidraw.png]]
+![[content/03-resources/Excalidraw/binary insertion sort.png]]
 
 ---
 ## Related Notes
