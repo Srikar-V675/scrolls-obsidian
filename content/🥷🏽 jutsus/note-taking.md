@@ -11,8 +11,7 @@ publish: true
 
 | File                                                                                                  | Date             | Source |
 | ----------------------------------------------------------------------------------------------------- | ---------------- | ------ |
-| [[plan your learning in 10 mins]]               | 2024-11-06 00:03 | \-     |
 | [[make conceptual notes not sequential]] | 2024-11-06 00:00 | \-     |
+| [[plan your learning in 10 mins]]               | 2024-11-06 00:03 | \-     |
 <!-- SerializedQuery END -->
-
 
