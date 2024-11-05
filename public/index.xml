@@ -6,59 +6,65 @@
       <description>Last 10 notes on 📜 Scrolls</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
+    <title>Welcome to My Scrolls</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Mon, 04 Nov 2024 19:32:29 GMT</pubDate>
+    <description> [! important]+ Scrolls My name is Srikar V. I have always been a fan of these digital gardens, blogs I see online all beautifully structured and done.</description>
+    <pubDate>Tue, 05 Nov 2024 18:56:32 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/</link>
     <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/</guid>
     <description></description>
-    <pubDate>Mon, 04 Nov 2024 19:32:29 GMT</pubDate>
+    <pubDate>Tue, 05 Nov 2024 18:56:31 GMT</pubDate>
   </item><item>
-    <title>3. data analysis</title>
-    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/3.-data-analysis</link>
-    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/3.-data-analysis</guid>
-    <description>Topics pandas, numpy and matplotlib Tableau SQL .</description>
-    <pubDate>Mon, 04 Nov 2024 18:22:00 GMT</pubDate>
+    <title>types of graph edges</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/types-of-graph-edges</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/types-of-graph-edges</guid>
+    <description>Graph Edges Captures We all know the main type of edges and they are directed and undirected edges. But we also need to know that there are several other types of edges that branch out from these two but have different significance based on the graphs.</description>
+    <pubDate>Tue, 05 Nov 2024 18:48:00 GMT</pubDate>
   </item><item>
-    <title>data science</title>
-    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/data-science</link>
-    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/data-science</guid>
-    <description>data science TABLE date as &quot;Date&quot;, sources as &quot;Source&quot; FROM &quot;content/🥷🏽 jutsus&quot; WHERE atlas = [[data science]].</description>
-    <pubDate>Mon, 04 Nov 2024 18:21:00 GMT</pubDate>
+    <title>two-pointers</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/two-pointers</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/two-pointers</guid>
+    <description>Two-Pointers Summary Moving 2 pointers in a array based on a condition Used when you want to optimise a O(n^2) time → O(n) time and O(n) space → O(1) space ...</description>
+    <pubDate>Tue, 05 Nov 2024 18:47:00 GMT</pubDate>
   </item><item>
-    <title>aws cloud practitioner resources</title>
-    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/aws-cloud-practitioner-resources</link>
-    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/aws-cloud-practitioner-resources</guid>
-    <description>Course AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam! Prepare for the AWS Certified Cloud Practitioner Certification (CLF-C02) and pass! www.youtube.com/watch ...</description>
-    <pubDate>Mon, 04 Nov 2024 18:20:00 GMT</pubDate>
+    <title>trees</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/trees</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/trees</guid>
+    <description>Trees Summary Trees are abstract non-sequential data structures that are really just a bunch of nodes and links that are connected to one another. trees are undirected and connected acyclic graphs, they are acyclic because they do not contain cycles or loops.</description>
+    <pubDate>Tue, 05 Nov 2024 18:46:00 GMT</pubDate>
   </item><item>
-    <title>cloud computing</title>
-    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/cloud-computing</link>
-    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/cloud-computing</guid>
-    <description>cloud computing TABLE date as &quot;Date&quot;, sources as &quot;Source&quot; FROM &quot;content/🥷🏽 jutsus&quot; WHERE atlas = [[cloud computing]].</description>
-    <pubDate>Mon, 04 Nov 2024 18:18:00 GMT</pubDate>
+    <title>tree depth traversals</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tree-depth-traversals</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tree-depth-traversals</guid>
+    <description>Tree Depth Traversals Summary Since trees are unstructured data structures and unique. The way we can access the nodes is by traversing in a unique way, one such way is to traverse by depth.</description>
+    <pubDate>Tue, 05 Nov 2024 18:45:00 GMT</pubDate>
   </item><item>
-    <title>8. LLMs</title>
-    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/8.-LLMs</link>
-    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/8.-LLMs</guid>
-    <description>Resources Intro to Large Language Models - YouTube Large Language Models in Five Formulas - YouTube Neural Networks: Zero To Hero GPT in 60 Lines of NumPy | Jay Mody Large Language Models ...</description>
-    <pubDate>Mon, 04 Nov 2024 18:16:00 GMT</pubDate>
+    <title>tree level order traversal</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tree-level-order-traversal</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tree-level-order-traversal</guid>
+    <description>Level Order Traversal Summary Level Order Traversal as the name suggests, we traverse the tree by visiting every node in each level. We always go from left to right and hence it is also called breadth first search.</description>
+    <pubDate>Tue, 05 Nov 2024 18:45:00 GMT</pubDate>
   </item><item>
-    <title>7. deep learning</title>
-    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/7.-deep-learning</link>
-    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/7.-deep-learning</guid>
-    <description>Resources FastAI Part-1 FastAI Part-2 Weights &amp; Biases Study Group The Full Stack Deep Learning youtu.be/HJd1I3FdSnY Ayush Singh YT Learn PyTorch for deep learning in a day ...</description>
-    <pubDate>Mon, 04 Nov 2024 18:04:00 GMT</pubDate>
+    <title>tree depth traversal use cases</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tree-depth-traversal-use-cases</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tree-depth-traversal-use-cases</guid>
+    <description>Depth Traversal Use cases Summary We know tree depth traversals have different ordering and each of these ordering have their own unique use cases that help us for efficient operations ...</description>
+    <pubDate>Tue, 05 Nov 2024 18:43:00 GMT</pubDate>
   </item><item>
-    <title>ai</title>
-    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/ai</link>
-    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/ai</guid>
-    <description>AI Resources FileDateSource7. deep learning2024-11-04 23:34-8. LLMs2024-11-04 23:46- .</description>
-    <pubDate>Mon, 04 Nov 2024 17:58:00 GMT</pubDate>
+    <title>tim sort</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tim-sort</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/tim-sort</guid>
+    <description>Tim Sort Summary Tim sort is a hybrid, stable sorting algorithm designed by Tim Peters in 2002, it combines merge and insertion sort to efficiently sort ...</description>
+    <pubDate>Tue, 05 Nov 2024 18:42:00 GMT</pubDate>
+  </item><item>
+    <title>strings</title>
+    <link>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/strings</link>
+    <guid>https://quartz.jzhao.xyz/%F0%9F%A5%B7%F0%9F%8F%BD-jutsus/strings</guid>
+    <description>Strings Summary Very similar to Arrays because they are sequence of characters while Arrays are sequence of a single data type. Common Things Common data structures for looking up strings - Trie/Prefix tree - Suffix tree Common algorithms for searching substrings - Rabin-Karp Algorithm - KMP Time Complexity OperationBig-OAccessO(1)SearchO(n)InsertO(n)RemoveO(n) Operations Involving Another String OperationBig-ONoteFind substringO(n.m)This is the most naive case.</description>
+    <pubDate>Tue, 05 Nov 2024 18:41:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
