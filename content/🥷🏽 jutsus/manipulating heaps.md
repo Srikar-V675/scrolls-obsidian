@@ -25,3 +25,5 @@ This is usually done by swapping nodes by checking the rules and ensuring the sh
 
 ## References(links)
 [Learning to Love Heaps. Today marks the halfway point of this… | by Vaidehi Joshi | basecs | Medium](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
+
+[For shrinking a heap, why do we need to remove the root node first and then...](https://www.perplexity.ai/search/for-shrinking-a-heap-why-do-we-LeuK2tAWTveZfE0D6EJfzg)

@@ -35,7 +35,8 @@ B --> E
 also called the `heap-order property` 
 
 [[manipulating heaps]]
-
+[[heaps implementation]]
+[[latex fraction]]
 ---
 ## Related Notes
 [[binary trees and binary search trees]]

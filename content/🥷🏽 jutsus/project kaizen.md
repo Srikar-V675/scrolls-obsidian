@@ -12,10 +12,10 @@ publish: true
 - **Deadline**: Feb 13 2025
 
 ## Milestones
-| Date       | Day   | Do Something to Improve Mind | Do Something to Improve Body | Produce Something | Do Something that Makes you Uncomfortable | Healthy Diet |
-| ---------- | ----- | ---------------------------- | ---------------------------- | ----------------- | ----------------------------------------- | ------------ |
-| 05-11-2024 | Day-1 | meditation                   | played badminton             | shell aliases     | nextcloud setup and reformatting vault    | yes.         |
-| 06-11-2024 | Day-2 |                              |                              |                   |                                           |              |
+| Date       | Day   | Do Something to Improve Mind | Do Something to Improve Body | Produce Something                                | Do Something that Makes you Uncomfortable | Healthy Diet |
+| ---------- | ----- | ---------------------------- | ---------------------------- | ------------------------------------------------ | ----------------------------------------- | ------------ |
+| 05-11-2024 | Day-1 | meditation                   | played badminton             | shell aliases                                    | nextcloud setup and reformatting vault    | yes.         |
+| 06-11-2024 | Day-2 | meditation                   | nothing                      | try to give vikki my nc deck access but couldn't | Buzz cut my hair                          | yes.         |
 
 ## Links & References
 [This 100 Day Challenge Changed My Life... - YouTube](https://www.youtube.com/watch?v=OT8WKSfUqKQ)

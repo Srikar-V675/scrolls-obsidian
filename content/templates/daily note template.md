@@ -14,9 +14,6 @@
 ## Grateful For 
 
 
-## Tasks 
-
-
 ## Today's Learning  
 
 
