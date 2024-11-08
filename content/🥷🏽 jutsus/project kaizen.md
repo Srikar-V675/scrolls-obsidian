@@ -3,7 +3,7 @@ date: 2024-11-05 03:11
 tags:
   - project
 status: ongoing
-publish: true
+publish: false
 ---
 # project kaizen
 
@@ -16,6 +16,7 @@ publish: true
 | ---------- | ----- | ---------------------------- | ---------------------------- | ------------------------------------------------ | ----------------------------------------- | ------------ |
 | 05-11-2024 | Day-1 | meditation                   | played badminton             | shell aliases                                    | nextcloud setup and reformatting vault    | yes.         |
 | 06-11-2024 | Day-2 | meditation                   | nothing                      | try to give vikki my nc deck access but couldn't | Buzz cut my hair                          | yes.         |
+| 07-11-2024 | Day-3 | meditation                   | Gym                          | plan for [[GradeSync]]                           | had a cold shower                         | kind of.     |
 
 ## Links & References
 [This 100 Day Challenge Changed My Life... - YouTube](https://www.youtube.com/watch?v=OT8WKSfUqKQ)
