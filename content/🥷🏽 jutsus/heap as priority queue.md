@@ -29,7 +29,7 @@ graph TD;
 **Find highest priority,**
 $$O(1)$$
 
-**Insert/Delete([[growing a heap]]/[[shrinking a heap]]**,
+**Insert/Delete([[growing a heap]]/[[shrinking a heap]]**),
 $$O(log\ n)$$
 because of the binary tree structure of [[heaps]].
 
