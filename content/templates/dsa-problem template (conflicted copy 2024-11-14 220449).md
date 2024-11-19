@@ -15,7 +15,7 @@ publish: true
 
 # Problem Description
 
-**Leetcode Link: **
+**Leetcode Link:**
 
 **Solution Link:** 
 
