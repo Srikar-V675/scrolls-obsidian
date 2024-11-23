@@ -3,7 +3,7 @@ date: 2024-11-11 19:28
 tags:
   - pr
 project: "[[SyncWise]]"
-link: https://github.com/Srikar-V675/syncwise/pull/16
+link: https://github.com/Srikar-V675/syncwise/pull/17
 branch: create-student
 publish: true
 ---

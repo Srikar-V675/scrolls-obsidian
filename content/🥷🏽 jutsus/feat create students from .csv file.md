@@ -3,7 +3,7 @@ date: 2024-11-21 13:13
 tags:
   - pr
 project: "[[SyncWise]]"
-link: 
+link: https://github.com/Srikar-V675/syncwise/pull/17
 branch: create-student
 publish: true
 ---
@@ -55,10 +55,3 @@ publish: true
 > [!note]
 > Try making the request from postman because you can't upload file in swagger-ui.
 
-
-|**Data Model**|**Main Characteristics**|**Geospatial Functions**|**Applications**|**Academic Attention**|
-|---|---|---|---|---|
-|**Document Database**|- Flexible schema  <br>- Supports various geometry types  <br>- Strong querying capabilities|- Proximity queries  <br>- Distance calculations  <br>- Spatial indexing|- Urban planning  <br>- Environmental monitoring|High|
-|**Graph Database**|- Fast graph traversal  <br>- Limited spatial indexing  <br>- Focus on relationships|- Distance calculations  <br>- Location queries|- Spatio-temporal data analysis|Low|
-|**Wide Column Database**|- Efficient mass data insertion and retrieval  <br>- Requires custom indexing|- Basic spatial queries|- Distributed applications|High|
-|**Key-Value Database**|- Fast data loading  <br>- In-memory storage  <br>- Limited spatial queries|- Basic location queries|- Real-time tracking applications|Low|
