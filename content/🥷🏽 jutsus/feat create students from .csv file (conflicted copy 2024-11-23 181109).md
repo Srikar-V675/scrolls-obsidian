@@ -3,7 +3,7 @@ date: 2024-11-21 13:13
 tags:
   - pr
 project: "[[SyncWise]]"
-link: 
+link: https://github.com/Srikar-V675/syncwise/pull/17
 branch: create-student
 publish: true
 ---
@@ -54,3 +54,4 @@ publish: true
 
 > [!note]
 > Try making the request from postman because you can't upload file in swagger-ui.
+
