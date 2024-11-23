@@ -34,6 +34,9 @@ $$\lfloor \frac{i - 1}{2} \rfloor$$
 **where below symbol is floor,**
 $$\lfloor ...\rfloor$$
 
+> [!important]-
+> All of the above holds true for a `binary heap` but for a `k-heap` all the *2's* will be replaced with **k** simple as that.
+
 ---
 ## Related Notes
 [[heaps]]

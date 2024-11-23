@@ -16,9 +16,18 @@ if `n` is the number of elements in the set then the number of permutations that
 > [!example]-
 > ![[permutations-1.png]]
 
+**Repetitions:**
+`n` -> number of element 
+`r` -> number of repetitions in `n` elements
 
+*Formula:* $$\frac{n!}{r!}$$
+
+If you want to arrange `n` elements in `k` ways then
+
+*Formula:* $$\frac{n!}{(n-k)!}$$
 
 ---
 ## Related Notes
 
 ## References(links)
+[Math Basics](https://algo.monster/problems/math-basics)
