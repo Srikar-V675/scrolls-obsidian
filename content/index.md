@@ -11,19 +11,8 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "atlas") -->
 <!-- SerializedQuery: TABLE date as "Date" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "atlas") -->
 
-| File                                                          | Date             |
-| ------------------------------------------------------------- | ---------------- |
-| [[ai]]                             | 2024-11-04 23:28 |
-| [[cloud computing]]   | 2024-11-04 23:48 |
-| [[databases]]               | 2024-11-05 02:16 |
-| [[dsa]]                           | 2024-11-05 01:37 |
-| [[interview prep]]     | 2024-11-05 01:35 |
-| [[machine learning]] | 2024-11-05 01:53 |
-| [[note-taking]]           | 2024-11-05 02:15 |
-| [[personal growth]]   | 2024-11-05 02:02 |
-| [[software dev]]         | 2024-11-05 02:04 |
-| [[system design]]       | 2024-11-05 02:15 |
-| [[tools]]                       | 2024-11-05 02:17 |
+| File | Date |
+| ---- | ---- |
 <!-- SerializedQuery END -->
 
 ## 🛠️ Projects 
@@ -31,13 +20,8 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "project") -->
 <!-- SerializedQuery: TABLE date as "Date" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "project") -->
 
-| File                                                            | Date             |
-| --------------------------------------------------------------- | ---------------- |
-| [[Core ML and MLOPs]] | 2024-11-10 19:29 |
-| [[SyncWise]]                   | 2024-11-05 02:23 |
-| [[dsa mastery]]             | 2024-11-05 01:50 |
-| [[interviews]]               | 2024-11-05 02:38 |
-| [[project kaizen]]       | 2024-11-05 03:11 |
+| File | Date |
+| ---- | ---- |
 <!-- SerializedQuery END -->
 
 ## 🆕 Recent Notes 
@@ -45,17 +29,7 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date", sources as "Source", tags as "Tags", status as "Status" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "zettel") SORT date DESC LIMIT 10 -->
 <!-- SerializedQuery: TABLE date as "Date", sources as "Source", tags as "Tags", status as "Status" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "zettel") SORT date DESC LIMIT 10 -->
 
-| File                                                                                              | Date             | Source                                                                             | Tags                                          | Status     |
-| ------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------------------- | --------------------------------------------- | ---------- |
-| [[drf serializers and views]]                   | 2024-11-19 22:44 | \-                                                                                 | <ul><li>zettel</li><li>software-dev</li></ul> | literature |
-| [[disjoint sets]]                                           | 2024-11-14 21:58 | [[probability axioms]]                  | <ul><li>zettel</li><li>data-science</li></ul> | literature |
-| [[probability axioms]]                                 | 2024-11-14 21:47 | [[probability]]                                | <ul><li>zettel</li><li>data-science</li></ul> | literature |
-| [[probability]]                                               | 2024-11-14 21:37 | <ul><li>[[Core ML and MLOPs]]</li></ul> | <ul><li>zettel</li><li>data-science</li></ul> | literature |
-| [[restore files from previous commit]] | 2024-11-13 18:56 | \-                                                                                 | <ul><li>zettel</li><li>software-dev</li></ul> | literature |
-| [[subsets]]                                                       | 2024-11-12 21:14 | \-                                                                                 | <ul><li>zettel</li><li>dsa</li></ul>          | literature |
-| [[permutations]]                                             | 2024-11-12 20:50 | \-                                                                                 | <ul><li>zettel</li><li>dsa</li></ul>          | literature |
-| [[heap in python]]                                         | 2024-11-11 05:32 | [[heaps]]                                            | <ul><li>zettel</li><li>dsa</li></ul>          | literature |
-| [[why not bst as priority queue]]           | 2024-11-07 18:42 | [[heap as priority queue]]          | <ul><li>zettel</li><li>dsa</li></ul>          | literature |
-| [[priority queue]]                                         | 2024-11-07 18:19 | [[heaps]]                                            | <ul><li>zettel</li><li>dsa</li></ul>          | literature |
+| File | Date | Source | Tags | Status |
+| ---- | ---- | ------ | ---- | ------ |
 <!-- SerializedQuery END -->
 

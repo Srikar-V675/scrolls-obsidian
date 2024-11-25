@@ -9,10 +9,7 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "databases") -->
 <!-- SerializedQuery: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "databases") -->
 
-| File                                                                        | Date             | Source |
-| --------------------------------------------------------------------------- | ---------------- | ------ |
-| [[acid properties in dbms]] | 2024-11-05 23:32 | \-     |
-| [[db normalization]]               | 2024-11-05 23:49 | \-     |
-| [[joins in sql]]                       | 2024-11-05 23:54 | \-     |
+| File | Date | Source |
+| ---- | ---- | ------ |
 <!-- SerializedQuery END -->
 

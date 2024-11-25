@@ -9,9 +9,8 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "system-design") -->
 <!-- SerializedQuery: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "system-design") -->
 
-| File                                                                    | Date             | Source |
-| ----------------------------------------------------------------------- | ---------------- | ------ |
-| [[how uber computes ETA]] | 2024-11-05 23:31 | \-     |
+| File | Date | Source |
+| ---- | ---- | ------ |
 <!-- SerializedQuery END -->
 
 

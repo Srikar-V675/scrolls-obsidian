@@ -9,10 +9,8 @@ publish: true
 <!-- QueryToSerialize: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "tools") -->
 <!-- SerializedQuery: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "tools") -->
 
-| File                                                                    | Date             | Source |
-| ----------------------------------------------------------------------- | ---------------- | ------ |
-| [[latex fraction]]               | 2024-11-07 08:03 | \-     |
-| [[mermaid diagrams docs]] | 2024-11-06 00:02 | \-     |
+| File | Date | Source |
+| ---- | ---- | ------ |
 <!-- SerializedQuery END -->
 
 
