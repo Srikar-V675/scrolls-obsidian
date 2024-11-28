@@ -1,12 +1,12 @@
 ---
-date: <% tp.file.creation_date() %>
+date: {{date}}
 sources: 
 tags:
   - zettel
 status: literature
 publish: true
 ---
-# <% tp.file.title %>
+# {{title}}
 
 
 ---

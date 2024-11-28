@@ -1,9 +1,12 @@
 ---
-date: 2024-11-10 19:29
+id: Core ML and MLOPs
+aliases:
+  - Core ML and MLOPs
 tags:
   - project
-status: ongoing
+date: 2024-11-10 19:29
 publish: true
+status: ongoing
 ---
 # Core ML and MLOPs
 
@@ -28,8 +31,6 @@ The interview will be 15-30 mins. If you are selected then you will be working u
 
 > [!quote]
 > "Spend money like you don't have money and work like you don't have time."
-
-
 
 ## Links & References
 [Piazza • Ask. Answer. Explore. Whenever.](https://piazza.com/class/lrkckphzivh3xx)

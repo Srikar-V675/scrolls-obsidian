@@ -1,11 +1,11 @@
 ---
-date: <% tp.file.creation_date() %>
+date: {{date}}
 tags:
   - project
 status: ongoing
 publish: true
 ---
-# <% tp.file.title %>
+# {{title}}
 
 ## Overview
 - **Objective**: What is the goal of this project?

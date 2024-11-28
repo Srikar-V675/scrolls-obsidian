@@ -1,11 +1,11 @@
 ---
-date: <% tp.file.creation_date() %>
+date: {{date}}
 tags:
   - documentation
 project: 
 publish: true
 ---
 
-# <% tp.file.title %>
+# {{title}}
 
 **PROJECT:** 

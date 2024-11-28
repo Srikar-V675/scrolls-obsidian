@@ -1,11 +1,14 @@
 ---
-date: 2024-11-24 20:03
-sources: "[[probability]]"
+id: gamblers fallacy
+aliases:
+  - Gamblers Fallacy
 tags:
   - zettel
   - data-science
-status: literature
+date: 2024-11-24 20:03
 publish: true
+sources: "[[probability]]"
+status: literature
 ---
 # Gamblers Fallacy
 
