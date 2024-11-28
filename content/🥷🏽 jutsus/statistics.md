@@ -1,11 +1,11 @@
 ---
-date: 2024-11-25 12:41
-sources: "[[Core ML and MLOPs]]"
 tags:
   - zettel
   - data-science
-status: literature
+date: 2024-11-25 12:41
 publish: true
+sources: "[[Core ML and MLOPs]]"
+status: literature
 ---
 # Statistics
 

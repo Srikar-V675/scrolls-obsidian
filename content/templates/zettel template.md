@@ -1,10 +1,10 @@
 ---
-date: {{date}}
-sources: 
+date: {{date}} 
 tags:
   - zettel
+source: 
 status: literature
-publish: true
+publish: true 
 ---
 # {{title}}
 

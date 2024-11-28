@@ -18,7 +18,8 @@ They are the fundamental [[statistics]] tools that are used to identify and desc
 1. [[mean]]
 2. [[median]]
 3. [[mode]]
-5. [[content/🥷🏽 jutsus/1732780148-quantiles.md|quantiles]]
+4. [[content/🥷🏽 jutsus/1732792901-quantiles.md|quantiles]]
+
 ---
 ## Related Notes
 [[statistics]]
