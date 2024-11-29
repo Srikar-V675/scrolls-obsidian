@@ -1,13 +1,13 @@
 ---
 date: {{date}} 
 tags:
-  - zettel
-source: 
+  - zettel 
 status: literature
 publish: true 
 ---
 # {{title}}
 
+**Source:** 
 
 ---
 ## Related Notes

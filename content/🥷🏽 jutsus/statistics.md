@@ -1,4 +1,6 @@
 ---
+id: statistics
+aliases: []
 tags:
   - zettel
   - data-science

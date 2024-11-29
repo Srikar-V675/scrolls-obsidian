@@ -1,17 +1,17 @@
 ---
-date: 2024-11-25 12:16
-sources: 
-- "[[probability]]"
-- "[[random variables]]"
 tags:
   - zettel
   - data-science
-status: literature
+date: 2024-11-25 12:16
 publish: true
+sources:
+  - "[[probability]]"
+  - "[[random variables]]"
+status: literature
 ---
 # Expected Probability Values
 
-It is the mean value of a [[probability]] distribution([[random variables]]) before any data is present(i.e before any experiment is done).
+It is the `mean value` of a [[probability]] distribution([[random variables]]) before any data is present(i.e before any experiment is done).
 
 It represents the average result of many trials([[law of large numbers]]) of a random experiment.
 
