@@ -11,6 +11,8 @@ status: literature
 ---
 # Statistics
 
+![[probability-mindmap.excalidraw.svg]]
+
 It is a field that deals with the collection, analysis, interpretation, presentation and organisation of data.
 
 ---

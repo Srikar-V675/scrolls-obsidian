@@ -13,6 +13,8 @@ status: literature
 ---
 # Probability
 
+![[probability-mindmap.excalidraw.svg]]
+
 #### Probability Theorem
 Probability theorem is the framework or study that deals with uncertainty of experiments or events.
 
