@@ -11,9 +11,9 @@ status: literature
 ---
 # joint-probability-distribution
 
-**Source:** [[content/🥷🏽 jutsus/probability.md|probability]]
+**Source:** [[probability]]
 
-As the name says it is probability of `two events` occuring at the same time or simultaneously i.e `and` iykyk. We also know that in [[content/🥷🏽 jutsus/probability.md|probability]] `and` is `intersection`. 
+As the name says it is probability of `two events` occuring at the same time or simultaneously i.e `and` iykyk. We also know that in [[probability]] `and` is `intersection`. 
 
 **Formula:** $$P(A \cap B) = P(A) \cdot P(B)$$
 
@@ -24,7 +24,7 @@ need to learn Formula for dependent variables
 
 ---
 ## Related Notes
-[[content/🥷🏽 jutsus/probability.md|probability]]
+[[probability]]
 
 ## References(links)
-[[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]
+[[Core ML and MLOPs]]

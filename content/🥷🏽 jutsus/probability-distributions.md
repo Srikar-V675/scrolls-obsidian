@@ -11,9 +11,9 @@ status: literature
 ---
 # probability-distributions
 
-**Source:** [[content/🥷🏽 jutsus/probability.md|probability]], [[content/🥷🏽 jutsus/statistics.md|statistics]]
+**Source:** [[probability]], [[statistics]]
 
-They give you the distribution of the [[🥷🏽 jutsus/probability.md|probability]] of [[random variables]] both [[continuous random variables]] and [[discrete random variables]].
+They give you the distribution of the [[probability]] of [[random variables]] both [[continuous random variables]] and [[discrete random variables]].
 
 ## Types
 1. [[probability mass function]]
@@ -30,4 +30,4 @@ They give you the distribution of the [[🥷🏽 jutsus/probability.md|probabili
 [[probability density function]]
 
 ## References(links)
-[[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]
+[[Core ML and MLOPs]]

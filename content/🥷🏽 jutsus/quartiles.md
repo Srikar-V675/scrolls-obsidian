@@ -10,7 +10,7 @@ status: literature
 ---
 # quartiles
 
-**Source:** [[content/🥷🏽 jutsus/1732792901-quantiles.md|quantiles]]
+**Source:** [[quantiles|quantiles]]
 
 Divides the ditribution into 4 parts hence the name `quartiles`. 
 
@@ -44,7 +44,7 @@ Divides the ditribution into 4 parts hence the name `quartiles`.
 
 ---
 ## Related Notes
-[[content/🥷🏽 jutsus/1732792901-quantiles.md|quantiles]]
+[[quantiles|quantiles]]
 
 ## References(links)
 [[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]

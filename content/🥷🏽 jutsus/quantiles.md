@@ -10,12 +10,12 @@ status: literature
 ---
 # quantiles
 
-**Source:** [[content/🥷🏽 jutsus/measures of central tendency.md|measures of central tendency]]
+**Source:** [[measures of central tendency]]
 
 Spliting up a sample into equal sized subgroups, allowing us to analyse the distribution of data and detect outliers.
 
 ## Types
-1. [[quartiles|quartiles]]
+1. [[quartiles]]
 2. deciles - 10 parts
 3. percentiles - 100 parts
 
@@ -24,8 +24,8 @@ Spliting up a sample into equal sized subgroups, allowing us to analyse the dist
 
 ---
 ## Related Notes
-[[content/🥷🏽 jutsus/measures of central tendency.md|measures of central tendency]]
-[[content/🥷🏽 jutsus/statistics.md|statistics]]
+[[measures of central tendency]]
+[[statistics]]
 
 ## References(links)
-[[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]
+[[Core ML and MLOPs]]

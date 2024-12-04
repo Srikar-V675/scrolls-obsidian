@@ -11,7 +11,7 @@ status: literature
 ---
 # marginal-probability
 
-**Source:** [[content/🥷🏽 jutsus/probability.md|probability]]
+**Source:** [[probability]]
 
 Let's consider a [[joint-probability-distribution|joint-probability-distribution]]. 
 
@@ -21,7 +21,7 @@ Let's consider a [[joint-probability-distribution|joint-probability-distribution
 | women | 5    | 3    | 2    | 10  |
 |       | 7    | 7    | 8    | 22  |
 
-In the above table the [[joint-probability-distribution|joint-probability-distribution]] is of the gender and the pets they like. marginal-probability is nothing but when you get the [[content/🥷🏽 jutsus/probability.md|probability]] of either `X`(gender) or `Y`(pets) when they are independent of the other. 
+In the above table the [[joint-probability-distribution]] is of the gender and the pets they like. marginal-probability is nothing but when you get the [[probability]] of either `X`(gender) or `Y`(pets) when they are independent of the other. 
 
 Let's take marginal-probability of `pets` independent of `gender`.
 -  people who prefer `cats` = 7 & probability would be $$\frac{7}{22}$$
@@ -30,8 +30,8 @@ Just like that we can do for vice-versa also. See the table and I think you woul
 
 ---
 ## Related Notes
-[[joint-probability-distribution|joint-probability-distribution]]
-[[content/🥷🏽 jutsus/probability.md|probability]]
+[[joint-probability-distribution]]
+[[probability]]
 
 ## References(links)
-[[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]
+[[Core ML and MLOPs]]
