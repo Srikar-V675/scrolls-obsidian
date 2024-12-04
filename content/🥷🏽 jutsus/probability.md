@@ -1,12 +1,15 @@
 ---
-date: 2024-11-14 21:37
-sources:
-  - "[[Core ML and MLOPs]]"
+id: probability
+aliases:
+  - Probability
 tags:
   - zettel
   - data-science
-status: literature
+date: 2024-11-14 21:37
 publish: true
+sources:
+  - "[[Core ML and MLOPs]]"
+status: literature
 ---
 # Probability
 

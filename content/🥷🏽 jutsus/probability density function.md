@@ -1,14 +1,16 @@
 ---
+id: probability density function
 aliases:
   - PDF
-date: 2024-11-25 07:21
-sources:
-  - "[[random variables]]"
+  - Probability Density Function
 tags:
   - zettel
   - data-science
-status: literature
+date: 2024-11-25 07:21
 publish: true
+sources:
+  - "[[random variables]]"
+status: literature
 ---
 # Probability Density Function
 

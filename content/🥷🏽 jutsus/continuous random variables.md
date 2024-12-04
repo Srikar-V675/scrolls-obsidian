@@ -1,10 +1,13 @@
 ---
-date: 2024-11-24 20:45
-sources: 
+id: continuous random variables
+aliases:
+  - Continuous Random Variables
 tags:
   - zettel
-status: literature
+  - data-science
+date: 2024-11-24 20:45
 publish: true
+status: literature
 ---
 # Continuous Random Variables
 

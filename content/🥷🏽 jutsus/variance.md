@@ -20,7 +20,7 @@ Variance is measuring how much the data is spread out with respect to the common
 ## Formulas
 **Basic:** $$V(x) = \sigma^2$$
 where, 
-$$\sigma$$ is [[content/🥷🏽 jutsus/1732844879-standard-deviation.md|standard-deviation]]
+$$\sigma$$ is [[standard-deviation|standard-deviation]]
 
 **Sample Variance:** $$s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2$$
 

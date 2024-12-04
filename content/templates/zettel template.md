@@ -5,7 +5,7 @@ tags:
 status: literature
 publish: true 
 ---
-# {{title}}
+# <% tp.file.title %>
 
 **Source:** 
 
