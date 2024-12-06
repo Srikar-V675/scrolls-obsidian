@@ -36,7 +36,7 @@ also called the `heap-order property`
 
 [[manipulating heaps]]
 [[heaps implementation]]
-[[latex fraction]]
+[[content/🥷🏽 jutsus/latex]]
 ---
 ## Related Notes
 [[binary trees and binary search trees]]

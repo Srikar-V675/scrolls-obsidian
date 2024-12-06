@@ -1,34 +1,19 @@
----
-id: 1732845839-tasks
-aliases:
-  - tasks
-tags: []
----
-
 # tasks
 
-## Week
-- [ ] finish foundations part 1 lectures. [[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]
-- [x] make scraping work. [[content/🥷🏽 jutsus/SyncWise.md|SyncWise]]
-- [ ] integrate to drf. [[content/🥷🏽 jutsus/SyncWise.md|SyncWise]]
-- [ ] start revising your [[content/🥷🏽 jutsus/dsa.md|dsa]] notes. [[content/🥷🏽 jutsus/dsa.md|dsa]]
-- [ ] learn LaTex
-- [ ] money lekka
+## 05-Dec-2024 
+- [x] IBM prepare
+- [x] learn Latex
 
-## 29/11/2024
-**[[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]**
+## 06-Dec-2024
+- [ ] [[Core ML and MLOPs]] week-1 assignments
+- [ ] [[SyncWise]] restructure scraping file.
+- [ ] IBM [[interviews]] test.
 
-- [ ] covariance
-- [ ] distributions lecture
-- [ ] all notes
+## 07-Dec-2024
+- [ ] Ninja-something test
+- [ ] plan your [[dsa]] learning
+- [ ] integrate to drf. [[SyncWise]]
 
-**College:**
-- [ ] assignments
-- [x] project abstract ppt for review
-
-[[content/🥷🏽 jutsus/dsa.md|dsa]]
-
-- [x] TCS Codevita practice
-- [ ] [runtime to algo](https://algo.monster/problems/runtime_summary)
-- [ ] [keyword to algo](https://algo.monster/problems/keyword_to_algo)
-
+## 08-Dec-2024
+- [ ] money Lekka
+yet to plan...
