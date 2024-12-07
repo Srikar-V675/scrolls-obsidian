@@ -7,7 +7,7 @@ publish: true
 ---
 # uniform-distributions-problems
 
-**Source:** [[uniform-distribution]]
+**Source:** [[uniform distribution]]
 
 ![[uniform-distributions-problems.png]]
 
@@ -16,7 +16,7 @@ publish: true
 
 ---
 ## Related Notes
-[[uniform-distribution]]
+[[uniform distribution]]
 
 ## References(links)
 [[Core ML and MLOPs]]

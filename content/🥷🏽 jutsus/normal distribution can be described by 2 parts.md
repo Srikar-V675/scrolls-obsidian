@@ -23,7 +23,7 @@ The [[standard-deviation]] is the `scaling` param.
 
 ---
 ## Related Notes
-[[uniform-distribution]]
+[[uniform distribution]]
 [[mean]]
 [[standard-deviation]]
 

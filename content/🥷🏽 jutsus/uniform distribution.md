@@ -6,7 +6,7 @@ date: 2024-12-04-Wed
 publish: true
 status: literature
 ---
-# uniform-distribution
+# uniform distribution
 
 **Source:** [[probability-distributions|probability-distributions]]
 
