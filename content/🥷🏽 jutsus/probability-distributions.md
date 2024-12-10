@@ -15,10 +15,6 @@ status: literature
 
 They give you the distribution of the [[probability]] of [[random variables]] both [[continuous random variables]] and [[discrete random variables]].
 
-## Types
-1. [[probability mass function]]
-2. [[probability density function]]
-
 ---
 ## Related Notes
 [[probability]]

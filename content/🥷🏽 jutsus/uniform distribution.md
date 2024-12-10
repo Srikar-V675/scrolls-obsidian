@@ -27,13 +27,19 @@ So now area is $$area = (b-a) \cdot f(x)$$
 
 then $$f(x) = P(x) = \frac{1}{(b-a)}$$
 
-The `probability distribution function` is given by 
+The [[probability density function]] is given by 
 $$
 f(x) =  \begin{cases}  \frac{1}{b-a} & \text{for } a \leq x \leq b \\  0 & \text{otherwise} \end{cases}
 $$
 
 > [!note]
 > All of these `formulae` above is applicable to only [[continuous random variables]]
+
+For `discrete` [[uniform distribution]],
+$$f_x(X) = \frac{1}{b-a+1}$$
+
+Where:
+- $b-a+1 = n$ which is the total number of possible outcomes.
 
 ## Example problems
 [[uniform-distributions-problems]]

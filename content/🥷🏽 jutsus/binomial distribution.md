@@ -28,6 +28,8 @@ Where:
 
 The formula can be read as: `(no. of ways of getting k success) * (total probability of k success) * (total probabilty of {n-k} failures)`
 
+![[binomial distribution.png]]
+
 ---
 ## Related Notes
 [[probability-distributions]]

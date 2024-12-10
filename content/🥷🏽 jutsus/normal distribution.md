@@ -27,8 +27,10 @@ It is is a `bell-shaped curve`, that is symmetric around the mean. This kind of 
 
 [[normal distribution can be described by 2 parts]]
 
-**Formula:** $$f(x) = \frac{1}{\sigma \sqrt{2\pi}} \exp^\left(-\frac{(x - \mu)^2}{2\sigma^2}\right)$$
+**Formula:** $$f(x) = \frac{1}{\sigma \sqrt{2\pi}} \exp^{-\frac{(x - \mu)^2}{2\sigma^2}}$$
 
+> [!example]
+> Race finishing times in F1 racing can be modelled as a [[normal distribution]]
 
 ---
 ## Related Notes
