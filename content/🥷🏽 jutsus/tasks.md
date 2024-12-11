@@ -13,10 +13,21 @@
 - [x] start reading the probability for dummies book
 
 **[[dsa]]**
-- [ ] plan your [[dsa]] learning 
-- [ ] go with the plan 
+- [x] plan your [[dsa]] learning 
+- [x] go with the plan 
+
+## 11-Dec-2024
 
 **[[SyncWise]]**
 - [ ] [[SyncWise]] restructure scraping file.
 - [ ] integrate to drf. [[SyncWise]]
 
+[[dsa]]
+- [ ] runtime to algo 
+- [ ] keyword to algo
+- [ ] basic data structures
+- [ ] grind 75 problem 
+
+[[Core ML and MLOPs]]
+- [ ] 6 numpy lectures
+- [ ] book
