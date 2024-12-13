@@ -16,11 +16,7 @@
 - [x] plan your [[dsa]] learning 
 - [x] go with the plan 
 
-## 11-Dec-2024
-
-**[[SyncWise]]**
-- [ ] [[SyncWise]] restructure scraping file.
-- [ ] integrate to drf. [[SyncWise]]
+## 13-Dec-2024
 
 [[dsa]]
 - [ ] runtime to algo 
@@ -29,5 +25,8 @@
 - [ ] grind 75 problem 
 
 [[Core ML and MLOPs]]
-- [ ] 6 numpy lectures
+- [ ] 3 numpy lectures
+
+---
 - [ ] book
+- [ ] integrate to drf. [[SyncWise]]

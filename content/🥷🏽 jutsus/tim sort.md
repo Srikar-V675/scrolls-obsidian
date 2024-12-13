@@ -16,7 +16,7 @@ publish: true
 ### Detailed Explanation
 
 - Let's try to understand why the need for a new sorting algorithm was there?
-- Before we try to get to the point, we need to know that in [[Big-O Notation]] there is a catch i.e it denotes only the highest degree and ignores constants.
+- Before we try to get to the point, we need to know that in [[runtime to algo]] there is a catch i.e it denotes only the highest degree and ignores constants.
 - While [[Merge Sort]], [[Quick Sort]], and Heap Sort are all sorting algos that execute in O(n.log n) time they have differed constants which can make one better than the other in certain situations.
 - **Time Complexity:** O(C. n. log n + ....)
 	- Where `C` is:
