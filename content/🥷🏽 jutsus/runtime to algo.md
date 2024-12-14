@@ -4,6 +4,7 @@ sources:
 tags:
   - zettel
   - dsa
+  - basic
 status: literature
 publish: true
 ---

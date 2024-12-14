@@ -20,13 +20,21 @@
 
 [[dsa]]
 - [x] runtime to algo 
-- [ ] keyword to algo
-- [ ] basic data structures
+- [x] keyword to algo
+- [x] basic data structures
 - [x] grind 75 problem 
 
-[[Core ML and MLOPs]]
-- [ ] 3 numpy lectures
+## 15-Dec-2024
 
----
-- [ ] book
-- [ ] integrate to drf. [[SyncWise]]
+- [ ] weekly review
+
+[[Core ML and MLOPs]]
+- [ ] 6 numpy lectures
+- [ ] book 
+
+[[dsa]]
+- [ ] one medium problem 
+
+[[SyncWise]]
+- [ ] remove `\utils` from `main` branch and move to `scraping` branch.
+- [ ] integrate to drf.
