@@ -19,10 +19,10 @@
 ## 13-Dec-2024
 
 [[dsa]]
-- [ ] runtime to algo 
+- [x] runtime to algo 
 - [ ] keyword to algo
 - [ ] basic data structures
-- [ ] grind 75 problem 
+- [x] grind 75 problem 
 
 [[Core ML and MLOPs]]
 - [ ] 3 numpy lectures

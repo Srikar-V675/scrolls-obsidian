@@ -15,7 +15,7 @@ status: literature
 
 ![[probability-mindmap.excalidraw.svg]]
 
-#### Probability Theorem
+## Probability Theorem
 Probability theorem is the framework or study that deals with uncertainty of experiments or events.
 
 Probability is nothing but making something unsure/uncertain -> sure. For example, if we toss a coin we are `unsure` whether the outcome would be either *heads or tails* but by going with probability standards we can be sure that it's 50% sure that it can be `heads` or vice versa. 
