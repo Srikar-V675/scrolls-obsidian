@@ -10,8 +10,11 @@ publish: true
 ---
 
 **DSA-PATTERNS:**
+
 **DIFFICULTY:**
+
 **COMPANIES:**
+- 
 
 # Problem Description
 

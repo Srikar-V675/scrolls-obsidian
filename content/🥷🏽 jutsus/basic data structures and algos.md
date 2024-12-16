@@ -20,8 +20,6 @@ These are the data structures and algorithms that are the fundamental blocks of 
 5. [[queue]]
 6. [[searching & sorting]]
 
-
-
 ---
 ## Related Notes
 

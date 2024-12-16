@@ -24,9 +24,7 @@
 - [x] basic data structures
 - [x] grind 75 problem 
 
-## 15-Dec-2024
-
-- [ ] weekly review
+## 17-Dec-2024
 
 [[Core ML and MLOPs]]
 - [ ] 6 numpy lectures
@@ -38,3 +36,12 @@
 [[SyncWise]]
 - [ ] remove `\utils` from `main` branch and move to `scraping` branch.
 - [ ] integrate to drf.
+
+## 16-Dec-2024
+
+**Personal**
+- [ ] [Outperform Every Area Of Your Life (+2h Animation) - YouTube](https://youtu.be/S7RFQfClRF4?si=JEceXuTcKuDQmjl7)
+- [ ] Quote on wall
+- [ ] Goals
+- [ ] List all problems -> list all solutions
+- [ ] Clean and organise your place

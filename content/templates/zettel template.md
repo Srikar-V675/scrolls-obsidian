@@ -5,11 +5,6 @@ tags:
 status: literature
 publish: true 
 ---
-# <% tp.file.title %>
+**SOURCE:** 
 
-**Source:** 
-
----
-## Related Notes
-
-## References(links)
+**LINKS:**
