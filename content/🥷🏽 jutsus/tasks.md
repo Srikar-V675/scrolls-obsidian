@@ -5,6 +5,7 @@
 - [ ] numpy module of [[Core ML and MLOPs]]
 - [ ] start revising [[dsa]]
 - [ ] finish scraping integration for [[GradeSync]]
+- [ ] Workout splits based on the vid: [South Asian Strong - YouTube](https://www.youtube.com/@southasianstrong)
 
 ## 10-Dec-2024
 
@@ -37,11 +38,12 @@
 - [ ] remove `\utils` from `main` branch and move to `scraping` branch.
 - [ ] integrate to drf.
 
-## 16-Dec-2024
+## 17-Dec-2024
 
 **Personal**
-- [ ] [Outperform Every Area Of Your Life (+2h Animation) - YouTube](https://youtu.be/S7RFQfClRF4?si=JEceXuTcKuDQmjl7)
+- [x] [Outperform Every Area Of Your Life (+2h Animation) - YouTube](https://youtu.be/S7RFQfClRF4?si=JEceXuTcKuDQmjl7)
 - [ ] Quote on wall
 - [ ] Goals
 - [ ] List all problems -> list all solutions
 - [ ] Clean and organise your place
+- [ ] Cold emails and startups

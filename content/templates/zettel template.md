@@ -8,3 +8,6 @@ publish: true
 **SOURCE:** 
 
 **LINKS:**
+
+> [!tldr]
+
