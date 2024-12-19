@@ -1,5 +1,5 @@
 ---
-date: <% tp.file.creation_date() %>
+date: 2024-12-17 07:47
 project: 
 tags:
   - meeting

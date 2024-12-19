@@ -1,9 +1,3 @@
----
-id: 1732952564-bucketlist
-aliases:
-  - bucketlist
-tags: []
----
 
 # bucketlist
 
