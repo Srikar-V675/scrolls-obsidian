@@ -1,4 +1,7 @@
 ---
+id: 1733316319-probability-distributions
+aliases:
+  - probability-distributions
 tags:
   - zettel
   - data-science

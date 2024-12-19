@@ -13,7 +13,7 @@ status: literature
 
 **Source:** [[variance|variance]]
 
-[[variance|variance]] with respect to probability is when we need to include the [[content/🥷🏽 jutsus/expected probability values.md|expected probability values]] because now the [[content/🥷🏽 jutsus/mean.md|mean]] will be the [[content/🥷🏽 jutsus/expected probability values.md|expected probability values]].
+[[variance|variance]] with respect to probability is when we need to include the [[expected probability values]] because now the [[mean]] will be the [[expected probability values]].
 
 ## Formulas
 
@@ -41,8 +41,8 @@ $$\mathrm{Var}(X) = \mathbb{E}[X^2] - (\mathbb{E}[X])^2$$
 
 ---
 ## Related Notes
-[[content/🥷🏽 jutsus/expected probability values.md|expected probability values]]
+[[expected probability values]]
 [[variance|variance]]
 
 ## References(links)
-[[content/🥷🏽 jutsus/Core ML and MLOPs.md|core ML and MLOPs]]
+[[Core ML and MLOPs]]
