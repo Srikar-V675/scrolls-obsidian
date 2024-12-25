@@ -18,17 +18,37 @@
 - [ ] PDFs scraping 
 - [ ] Improve the execution time of scraping 
 - [ ] Help vikki get the dashboards layout right
+- [ ] Make sure to have right docs, comments and tests for the code you write
+
+**Events:**
+- [ ] TCS Codevita 2nd round. *10-01-2025 3 pm -> 11-01-2025 3 pm*
 
 ## Week
 
+[[SyncWise]]
+- [ ] Project review on *26-12-2024*
+	- [x] Scraping should be working
+	- [ ] Simple dashboard must be functioning
+	- [x] Basic ticketing must be functioning
 
+[[dsa]]
+- [ ] [[basic data structures and algos]] must be completed
 
-## 17-Dec-2024
+## 23-Dec-2024
 
-**Personal**
-- [x] [Outperform Every Area Of Your Life (+2h Animation) - YouTube](https://youtu.be/S7RFQfClRF4?si=JEceXuTcKuDQmjl7)
-- [ ] Quote on wall
-- [x] Goals
-- [x] List all problems -> list all solutions
-- [ ] Clean and organise your place
-- [ ] Cold emails and startups
+[[dsa]]
+- [ ] One medium problem 
+
+[[SyncWise]]
+- [x] Integrate to DRF 
+	- [x] Initialize redis connection and look into it how to implement its logic
+	- [x] Logic for identifying subjects
+	- [x] Identify subjects and add them to the DB
+	- [x] Find out how you can make the scraping a background task 
+	- [x] Start the background task of scraping update the DB
+	- [x] Determine the structure of response after completion of scraping task and showing of errors
+
+**Others**
+- [ ] Watch the foreign summer internship yt video
+- [x] Kishan cake
+- [x] PWC Placement talk @ 6 pm 

@@ -1,7 +1,4 @@
 ---
-id: syncwise things to keep in mind
-aliases:
-  - syncwise things to keep in mind
 tags:
   - documentation
 date: 2024-11-14 17:13
@@ -23,3 +20,4 @@ publish: true
 ## Ideas
 -  calculate risk of student failure.
 -  show the students at highest risks in dashboard.
+- for the students marks after it is scraped it is anyway in JSON format maybe we can use a noSQL DB for this? Since if a student has different option of subjects then when identifying the subject we can't put that into the DB. 
