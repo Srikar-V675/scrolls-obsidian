@@ -10,16 +10,7 @@ publish: true
 
 **PROJECT:** [[SyncWise]]
 
-**LINK:** 
-```cardlink
-url: https://github.com/Srikar-V675/syncwise/pull/18
-title: "Added necessary files for scraper integration into drf including initialilzing and using redis connections by Srikar-V675 · Pull Request #18 · Srikar-V675/syncwise"
-description: "Added serializers for Identifying subjects, batch creating subjects from list, scraping students in a batch, computing performance of students after score is scrapedAdded necessary views for the a..."
-host: github.com
-favicon: https://github.githubassets.com/favicons/favicon.svg
-image: https://opengraph.githubassets.com/1bd5d33c141b5c191baa60a26d8f7330669557cef5cfe12fb969c0dbac97476d/Srikar-V675/syncwise/pull/18
-```
-
+**LINK:** [Added necessary files for scraper integration into drf including initialilzing and using redis connections by Srikar-V675 · Pull Request #18 · Srikar-V675/syncwise · GitHub](https://github.com/Srikar-V675/syncwise/pull/18)
 
 **BRANCH:** `scraping`
 
@@ -46,7 +37,9 @@ graph TD;
 ### 1. Identify Subjects
 
 **endpoint:** `/api/identify/`
+
 **request-type:** `POST`
+
 **request-params:** 
 ```json
 {
@@ -83,7 +76,9 @@ graph TD;
 - Add the credits for each subject and send a request to the endpoint to add the subjects to the DB.
 
 **endpoint:** `/api/subjects/`
+
 **request-type:** `POST`
+
 **request-params:** 
 ```json
 {
@@ -138,7 +133,9 @@ graph TD;
 - Now we can scrape the results one by one by Students present in that Batch with respect to the corresponding Semester.
 
 **endpoint:** `/api/scrape/batch/`
+
 **request-type:** `POST`
+
 **request-params:**
 ```json
 {
@@ -172,7 +169,9 @@ graph TD;
 - The scraping takes quite the time to execute hence it is created as a background task and is running another thread. In order to track the progress a redis_mapping is created that returns the scraping info that is needed. This endpoint helps us determine the end of the progress or any error in scraping.
 
 **endpoint:** `/api/scrape/progress/{redis_name}/`
+
 **request-type:** `GET`
+
 **example-url-request:** `/api/scrape/progress/e26dbfda-a0ba-43aa-b25c-1b5c24a0c1e4/`
 
 > [!note]-
@@ -196,7 +195,9 @@ graph TD;
 - The above scraping only does the scraping and stores the scores in the DB but doesn't compute the performance of students like total, progress and sgpa.
 
 **endpoint:** `/api/scrape/performance/`
+
 **request-type:** `POST`
+
 **request-params:**
 ```json
 {
