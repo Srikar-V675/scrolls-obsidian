@@ -52,3 +52,17 @@
 - [ ] Watch the foreign summer internship yt video
 - [x] Kishan cake
 - [x] PWC Placement talk @ 6 pm 
+
+## 26-Dec-2024
+
+[[SyncWise]]
+- [ ] Create react front end for [[GradeSync]]
+	- [ ] Get and create batches
+	- [ ] Get and create sections
+	- [ ] Get and create students for sections using `.csv` file
+	- [ ] The whole scraping pipeline 
+	- [ ] Fetch marks and show basic dashboard
+- [ ] Necessary info for report and ask vikki to structure and finish it
+
+**Others:**
+- [ ] Accenture documents complete 

@@ -213,3 +213,97 @@ graph TD;
 }
 ```
 
+To implement both the **scraping workflow** and **dashboard functionality** in the frontend using HTML and CSS, you can follow these steps. The frontend will include forms for inputs required in the scraping steps and a dashboard to display data. Here's the refined plan:
+
+---
+
+### **Steps for Full Setup**
+
+#### **Backend Preparation**
+
+1. **Ensure All Endpoints are Functional**:
+    
+    - `/api/identify/` for subject scraping.
+    - `/api/subjects/` for adding subjects to the database.
+    - `/api/scrape/batch/` for batch scraping.
+    - `/api/scrape/progress/{redis_name}/` for tracking scraping progress.
+    - `/api/scrape/performance/` for computing student performance.
+    - `ScoreViewSet` and `StudentPerformanceViewSet` for scores and performance data.
+2. **Enable CORS**:
+    
+    - Install and configure Django CORS headers to allow your frontend to make API calls.
+3. **JWT Authorization**:
+    
+    - Ensure your frontend can handle JWT authentication for API calls.
+
+---
+
+### **Frontend Steps**
+
+#### **1. Structure the Frontend**
+
+Create an HTML page with the following sections:
+
+- **Header**: Title and navigation links.
+- **Forms**: For each step of the scraping process:
+    1. **Identify Subjects**:
+        - Input: USN, result URL.
+        - Button to trigger scraping.
+        - Display scraped subjects.
+    2. **Add Credits**:
+        - Input: Subject details (pre-filled with scraped data for easy editing).
+        - Input fields for `credits` and `semester`.
+        - Button to add subjects.
+    3. **Scrape Batch Results**:
+        - Input: Batch, semester, result URL.
+        - Button to start batch scraping.
+    4. **Track Progress**:
+        - Input: Redis name.
+        - Button to check progress.
+    5. **Compute Performance**:
+        - Input: Batch, semester.
+        - Button to compute performance.
+- **Dashboard**: Placeholder for graphs and tables to display analytics.
+
+#### **2. Create Forms for Each API Endpoint**
+
+Use basic HTML forms with appropriate input fields and buttons to submit data to each endpoint.
+
+---
+
+#### **3. Implement Dashboard**
+
+- **Graphs**:
+    - Use Chart.js or static bar charts created with CSS.
+    - Display performance metrics, subject averages, and batch trends.
+- **Tables**:
+    - Display scores and performance data using HTML tables styled with CSS.
+    - Include sorting and filtering options for better usability.
+
+---
+
+#### **4. Handle API Calls**
+
+Use JavaScript (plain or with a lightweight library like Axios) to:
+
+- Fetch data from the backend endpoints.
+- Populate forms with default/suggested values (e.g., scraped subjects for adding credits).
+- Dynamically update graphs and tables on the dashboard.
+
+---
+
+#### **5. Styling**
+
+- Use custom CSS or a framework like Bootstrap to ensure the layout is clean and responsive.
+
+---
+
+### **Implementation Order**
+
+1. Build the forms for each scraping step, testing each API call individually.
+2. Create the dashboard and integrate it with the backend to fetch scores and performance data.
+3. Style the frontend for better usability.
+
+---
+
+Once you've decided the next step, let me know, and I'll provide the specific code to implement it!
