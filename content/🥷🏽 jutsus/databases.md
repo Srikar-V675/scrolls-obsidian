@@ -6,10 +6,6 @@ publish: true
 ---
 # databases
 
-<!-- QueryToSerialize: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "databases") -->
-<!-- SerializedQuery: TABLE date as "Date", sources as "Source" FROM "content/🥷🏽 jutsus" WHERE contains(tags, "databases") -->
-
-| File | Date | Source |
-| ---- | ---- | ------ |
-<!-- SerializedQuery END -->
-
+```dataview
+TABLE date as "Date", sources as "Source" FROM "🥷🏽 jutsus" WHERE contains(tags, "databases")
+```

@@ -1,4 +1,3 @@
-- [ ] Workout splits based on the vid: [South Asian Strong - YouTube](https://www.youtube.com/@southasianstrong)
 
 ## Month: 31-Jan-2024
 
@@ -22,47 +21,15 @@
 
 **Events:**
 - [ ] TCS Codevita 2nd round. *10-01-2025 3 pm -> 11-01-2025 3 pm*
+- [ ] TCS Codevita Offline round. *31-01-2025*
 
-## Week
+## 03-Jan-2025
 
-[[SyncWise]]
-- [ ] Project review on *26-12-2024*
-	- [x] Scraping should be working
-	- [ ] Simple dashboard must be functioning
-	- [x] Basic ticketing must be functioning
-
-[[dsa]]
-- [ ] [[basic data structures and algos]] must be completed
-
-## 23-Dec-2024
-
-[[dsa]]
-- [ ] One medium problem 
-
-[[SyncWise]]
-- [x] Integrate to DRF 
-	- [x] Initialize redis connection and look into it how to implement its logic
-	- [x] Logic for identifying subjects
-	- [x] Identify subjects and add them to the DB
-	- [x] Find out how you can make the scraping a background task 
-	- [x] Start the background task of scraping update the DB
-	- [x] Determine the structure of response after completion of scraping task and showing of errors
-
-**Others**
-- [ ] Watch the foreign summer internship yt video
-- [x] Kishan cake
-- [x] PWC Placement talk @ 6 pm 
-
-## 26-Dec-2024
-
-[[SyncWise]]
-- [ ] Create react front end for [[GradeSync]]
-	- [ ] Get and create batches
-	- [ ] Get and create sections
-	- [ ] Get and create students for sections using `.csv` file
-	- [ ] The whole scraping pipeline 
-	- [ ] Fetch marks and show basic dashboard
-- [ ] Necessary info for report and ask vikki to structure and finish it
-
-**Others:**
-- [ ] Accenture documents complete 
+- [x] Prepare for PwC
+- [x] Decide on Book to read
+- [ ] Gym plan
+- [ ] early protein breakfast 
+- [ ] weekly reviews
+- [ ] avoid phone in the morning
+- [ ] buy the books, derma roller etc.
+- [ ] Workout splits based on the vid: [South Asian Strong - YouTube](https://www.youtube.com/@southasianstrong)
