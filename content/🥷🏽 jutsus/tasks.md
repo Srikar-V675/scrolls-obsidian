@@ -23,13 +23,9 @@
 - [ ] TCS Codevita 2nd round. *10-01-2025 3 pm -> 11-01-2025 3 pm*
 - [ ] TCS Codevita Offline round. *31-01-2025*
 
-## 03-Jan-2025
+## 08-Jan-2025
 
-- [x] Prepare for PwC
-- [x] Decide on Book to read
-- [ ] Gym plan
-- [ ] early protein breakfast 
-- [ ] weekly reviews
-- [ ] avoid phone in the morning
-- [ ] buy the books, derma roller etc.
-- [ ] Workout splits based on the vid: [South Asian Strong - YouTube](https://www.youtube.com/@southasianstrong)
+- [x] dsa problem 
+- [ ] Stack, Queue 
+- [ ] project 
+	- [ ] add rules and optimize the APIs.
