@@ -20,7 +20,7 @@
 - [ ] Make sure to have right docs, comments and tests for the code you write
 
 **Events:**
-- [ ] TCS Codevita 2nd round. *10-01-2025 3 pm -> 11-01-2025 3 pm*
+- [x] TCS Codevita 2nd round. *10-01-2025 3 pm -> 11-01-2025 3 pm*
 - [ ] TCS Codevita Offline round. *31-01-2025*
 
 ## 08-Jan-2025
