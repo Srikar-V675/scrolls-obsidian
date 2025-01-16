@@ -1,11 +1,9 @@
-
-# bucketlist
-
 ## Want To Do 
 - [ ] build my own cli habit tracker -> streaks, contribution graphs, calendar, yada yada...
+- [ ] build some analytics dashboard or some unified tool for `Smash`
 
 ### Kowsheka
- - [ ] go to the church with her
+ - [x] go to the church with her
  - [ ] go to the church on Xmas
  - [ ] go on a bike ride
  - [ ] teach her how to ride a bike
