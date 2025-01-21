@@ -1,19 +1,18 @@
 ---
 date: 2024-11-06 00:08
-sources:
-  - "[[arrays]]"
 tags:
   - zettel
   - dsa
 status: literature
 publish: true
 ---
-# Sliding-Window
+**SOURCE:** [[arrays]]
 
-## Summary
-- Variant of same direction 2 pointer problems.
-- Function performs on the entire interval rather than just the two positions.
-- Keep track of the value of the window and slide the window along the array.
+**LINKS:**
+- [Subarray Sum - Fixed](https://algo.monster/problems/subarray_sum_fixed)
+- [AlgoMonster: The Structured Path to Success on LeetCode Data Structure & Algorithm Interviews](https://algo.monster/templates)
+
+Variant of same direction [[two-pointers]] problems. Function performs on the entire interval rather than just the two positions. Keep track of the value of the window and slide the window along the array.
 
 ### Steps
 - Compute the initial result of the window.
@@ -43,12 +42,3 @@ def sliding_window(input, window_size):
 		optimal_ans = optimal(ans, optimal_ans)
 	return optimal_ans
 ```
-
----
-## Related Notes
-- [[Arrays]]
-- [[Two-Pointers]]
-
-## References(links)
-- [Subarray Sum - Fixed](https://algo.monster/problems/subarray_sum_fixed)
-- [AlgoMonster: The Structured Path to Success on LeetCode Data Structure & Algorithm Interviews](https://algo.monster/templates)

@@ -3,7 +3,7 @@
 [[dsa]]
 - [ ] Try to finish as many as problems from grind 75 list 
 - **Topics:**
-- [ ] [[arrays]]
+- [x] [[arrays]]
 - [ ] [[strings]]
 - [ ] [[hash tables]]
 - [ ] [[recursion]]
